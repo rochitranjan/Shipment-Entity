@@ -1,6 +1,15 @@
 # A demo console App for managing Logistics at a small shipping company
 Console App that will retrieve the details of the Shipment Entity based on 4 types of people who handle it namely, Customer, Agent, Carrier and Company. Get all the details related to the Shipment Entity as input from the user.
 
+
+Parameters for Customer - String shipmentEntityName,String identificationNumber,Integer id,String name
+Parameters for Company - String name,String identificationNumber,String identifier,String iata,String fmc
+Parameters for Agent - String shipmentEntityName,String identificationNumber,String name,String iata,String fmc
+Parameters for Carrier - String name,String identificationNumber,String carrierCode,String iata
+
+IATA - IATA number for accredited travel agents/company
+FMC - FMC license number for accredited company/agents
+
 # Input and Output Format:
 
 Enter the number of shipment entity  
