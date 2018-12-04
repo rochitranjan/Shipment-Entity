@@ -1,5 +1,5 @@
 # A demo console App for managing Logistics at a small shipping company
-Console App that will retrieve the details of the Shipment Entity based on 4 types of people who handle it namely, Customer, Agent, Carrier and Company. Get all the details related to the Shipment Entity as input from the user. The app add all of the user to a list and lets you run a search against all of the added entities and displayes the search result in following format
+Console App that will retrieve the details of the Shipment Entity based on 4 types of people who handle it namely, Customer, Agent, Carrier and Company. Get all the details related to the Shipment Entity as input from the user through console. The app adds all of the user to a list and lets you run a search against all of the added entities and displayes the search result in following format
 
 
 Parameters for Customer - String shipmentEntityName,String identificationNumber,Integer id,String name    
